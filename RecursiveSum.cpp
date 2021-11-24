@@ -22,7 +22,8 @@ int main(){
             cout<<z<<" ";
 		}
 	}cout<<"\n";
-	
+	//raphking
+		
 }
 
 	return 0;
